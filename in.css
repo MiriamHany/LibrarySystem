@@ -1,0 +1,73 @@
+*{
+        margin: 0px;
+        padding: 0px;
+    }
+    body {
+        font-size: 120%;
+        background: white;
+        background-image: url("https://hdwallsource.com/img/2014/7/cute-book-wallpaper-22144-22701-hd-wallpapers.jpg");
+        background-attachment: fixed;
+        background-size: 100%;
+        opacity: 0.9;
+    }
+    .header {
+        width: 30%;
+        margin: 50px auto 0px;
+        color: black;
+        background-color: rgb(235, 207, 171);
+        text-align: center;
+        border: 3px solid black;
+        border-bottom: none;
+        border-radius: 15px 15px 0px 0px;
+        padding: 20px
+    }
+    form {
+        width: 30%;
+        margin: 0px auto;
+        padding: 20px;
+        border: 3px solid black;
+        background: rgba(161, 95, 95, 0.76);
+        border-radius: 0px 0px 10px 10px;
+    }
+    .input-group{
+        margin: 10px 0px 10px 0px;
+    }
+    .input-group label{
+        display: block;
+        text-align: left;
+        margin: 3px; 
+    }
+    .input-group input{
+        height: 25px;
+        width: 93%;
+        padding: 3px 7px;
+        font-size: 16px;
+        border-radius: 5px;
+        border: 1px solid gray;
+    }
+    .btn{
+        text-align: center;
+        padding: 10px;
+        font-size: 15px;
+        color: white;
+        background: rgb(235, 207, 171);
+        border:none;
+        border-radius: 5px;
+    }
+    .button{
+        text-align: center;
+        padding: 10px;
+        font-size: 18px;
+        color: black;
+        border: none;
+        border-radius: 5px;
+    }
+    .button1{
+        text-align: center;
+        padding: 10px;
+        font-size: 15px;
+        color: black;
+        border: none;
+        border-radius: 5px;
+    }
+    
